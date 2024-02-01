@@ -49,7 +49,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
@@ -94,7 +96,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
@@ -139,7 +143,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
@@ -187,7 +193,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
@@ -232,7 +240,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
@@ -277,7 +287,9 @@ const Cards = () => {
                   </div>
                   <div className="col-md-2">{percent}%</div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-margin">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </p>
               </div>
             </div>
           </div>
