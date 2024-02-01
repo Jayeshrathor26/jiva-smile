@@ -1,0 +1,88 @@
+footer{
+    background-color: #B4C3DF;
+}
+.mt-3 {
+    margin-top: 9rem !important;
+}
+.text-muted {
+    color: #000 !important;
+}
+.h6,h6 {
+    font-size: 1rem;
+    margin-top: 40px;
+    font-size: 24px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+hr:not([size]) {
+    height: 2px;
+    color: #FFFFFF;
+    Border: 1px;
+    width: 85%;
+    margin-left: 95px;
+}
+
+.text-color{
+color: #1C51B3;
+}
+#btn1 {
+    background-color: #1750bb;
+    border-radius: 55px;
+    width: 200px;
+    height: 46px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+.text{
+    font-weight:400;
+    color: #000;
+}
+img,svg {
+    margin-left: 0px;
+}
+.text-size{
+font-size: 18px;
+font-weight: 400;
+}
+.font-weight {
+        font-weight: 500;
+}
+.social-icons{
+    font-size: 24px;
+}
+.whatsapp{
+    border-radius: 20px;
+}
+.content{
+    font-size: 16px;
+}
+.footer-btn{
+    margin-top: 90px;
+}
+.footer-position-left {
+    margin-left: 90px !important;
+}
+.footer-position-right {
+    margin-right: 30px !important;
+}
+@media only screen and (max-width: 600px) {
+.footer-position-left {
+            margin-left: auto!important;
+        }
+.footer-position-right {
+    margin-right: auto !important;
+}
+.footer-btn {
+    margin-top: 0px;
+}
+hr:not([size]) {
+    height: 2px;
+    color: #FFFFFF;
+    Border: 1px;
+    width: 85%;
+    margin-left: 32px;
+}
+}
