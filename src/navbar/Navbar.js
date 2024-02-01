@@ -1,11 +1,16 @@
 import React from "react";
 import "./../css/navbar.css";
 import Navimage from "./../images/logo.png";
+import vector from "./../images/vector.png";
 
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light " id="nav">
+      {/* <div style={{ backgroundImage: `url(${vector})` }}></div> */}
+      <nav
+        className="navbar navbar-expand-lg navbar-light background-image"
+        id="nav"
+      >
         <div className="container-fluid">
           <img src={Navimage} alt="logo" height={"70.7px"} width={"129px"} />
           <button
@@ -19,7 +24,11 @@ const Navbar = () => {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <div
+            className="collapse navbar-collapse"
+            id="navbarSupportedContent"
+            // style={{ backgroundImage: `url(${vector})` }}
+          >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 ms-auto">
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="#">
@@ -55,6 +64,17 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
+      <div>
+        <img
+          src={vector}
+          style={{
+            marginTop: "-270px",
+            marginLeft: "630px",
+            height: "378px",
+            width: "571px",
+          }}
+        />
+      </div>
     </>
   );
 };

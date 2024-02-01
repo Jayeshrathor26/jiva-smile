@@ -5,6 +5,7 @@
     /* border: 0.45px;  */
 } 
 .progress {
+  margin: 8px;
   width: 298px;
   display: flex;
   height: 6px;
@@ -59,9 +60,8 @@
          font-size: 16px;
 } 
 .text-alignment{
-    padding-left: 35px;
+    padding-left: 30px;
 }
-.alignment{
-  text-align: right;
-  padding-right: 13px;
+background-image{
+  background-repeat: no-repeat;
 }

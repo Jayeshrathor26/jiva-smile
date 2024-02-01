@@ -86,3 +86,6 @@ hr:not([size]) {
     margin-left: 32px;
 }
 }
+.text-position{
+    display: flex;
+}

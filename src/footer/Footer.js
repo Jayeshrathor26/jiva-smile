@@ -58,7 +58,7 @@ const Footer = () => {
                 <i className="fas fa-envelope me-3 text-color"></i>
                 info@jivasmile.com
               </p>
-              <p>
+              <p className="text-position">
                 <i className="fas  fa-location-dot me-3 text-color"></i>
                 Lorem Ipsum Dolor Sit Amet,Consectetur Adipiscing Elit.
               </p>

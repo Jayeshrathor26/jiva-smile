@@ -31,4 +31,13 @@ img,svg {
     vertical-align: middle;
     margin-left: 53px;
 }
-
+.background-image {
+    background-repeat: no-repeat;
+    margin-top:-181px;
+}
+.img-position{
+                margin-top: -245px;
+                margin-left: 630px;
+                height: 378px;
+                width: 571px;
+}
