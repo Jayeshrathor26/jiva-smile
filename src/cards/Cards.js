@@ -278,7 +278,7 @@ const Cards = () => {
                       <div
                         className="progress-bar"
                         role="progressbar"
-                        style={{ width: `${percent}%` }} //style="width: 25%;"
+                        style={{ width: `${percent}%` }}
                         aria-valuenow="65"
                         aria-valuemin="0"
                         aria-valuemax="100"
